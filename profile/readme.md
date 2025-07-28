@@ -1,4 +1,4 @@
-# 🦝 Raccon Security
+# 🦝 Raccoon Security
 
 **Welcome to Raccon Security** — a personal initiative by a passionate cybersecurity engineer, dedicated to building open-source tools and Linux-based distributions for the infosec community.
 
