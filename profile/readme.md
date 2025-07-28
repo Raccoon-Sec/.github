@@ -7,7 +7,7 @@
 This organization is currently in its early stages. As a solo developer, I'm working on laying the foundation for a series of cybersecurity-focused projects. Here's what to expect:
 
 - 🛠️ Custom-built security tools
-- 🐧 Lightweight Linux distributions for red and blue team operations
+- 🐧 Lightweight Linux distribution for OSINT
 - 📚 Technical documentation and learning resources
 - 🤝 Open-source contributions (eventually!)
 
